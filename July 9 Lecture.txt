@@ -8,3 +8,28 @@ Making NFTS
 1. Upload Photo
 2. Make Metadata
 3. Make NFT
+
+Solana = program method
+
+Account 
+Data _________________________ <= program
+IsExecutabl: true
+
+CLI = Command Line Interface
+
+command.exe => input input input
+
+sol_program => program.id aacount[] instruction_data
+
+borsh.io = borsh site
+
+TO DO:
+cargo-build-sbf
+(test-ledger/validator.log) solana-test-validator
+solana airdrop -u localhost 10000000 'Wallet Address'
+solana config set --url https://localhost:8899
+
+run(recover.js)
+
+# after running the recover.js with your Private Key
+solana config set -k key.json 

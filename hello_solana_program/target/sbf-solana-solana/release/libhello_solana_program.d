@@ -1,0 +1,1 @@
+/mnt/c/Users/Niño\ Lacambra/git_solana/theblokc-solana-bootcamp/Solana\ Bootcamp/hello_solana_program/target/sbf-solana-solana/release/libhello_solana_program.rlib: /mnt/c/Users/Niño\ Lacambra/git_solana/theblokc-solana-bootcamp/Solana\ Bootcamp/hello_solana_program/src/lib.rs
