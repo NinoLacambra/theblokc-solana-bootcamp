@@ -1,0 +1,33 @@
+Public Key:
+9ej9BKP1gYFVGxPCme2C6is7PNAqN9uANH44VCMVN3Nn
+
+nino
+DHwaP7ewUeoK4hmAFZB6jDw2eKrPd4FVFD2cy8J4A8jU
+
+solana airdrop 1 (pub key)
+
+npm i @solana/web3.js
+npx ts-node read-solana.ts 
+
+npm i dotenv (for importing .env)
+.env (para sa private key)
+npx ts-node write-solana.ts
+
+ERC20 - tokens 
+
+Steps in Making Token
+1. Create Mint
+2. Create Token Account
+3. Minting *mint(destination)		    
+ ^															token account
+
+
+    //    connection: Web3.Connection,
+    //    signer: Web3.Signer,
+    //    mintAuthority: PublicKey,
+    //    freezeAuthority: PublicKey,
+    //    decimals: 9,
+
+
+
+

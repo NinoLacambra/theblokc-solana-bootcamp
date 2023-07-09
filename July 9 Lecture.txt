@@ -1,0 +1,6 @@
+NFT token standard (https://docs.metaplex.com/programs/token-metadata/token-standard)
+
+Decentralize Storage
+1. IPfS
+2. Arweave
+
