@@ -2,7 +2,7 @@ import { createMetaplexInstance } from "./metaplex";
 
 async function main() {
     const metaplex = createMetaplexInstance()
-    const metadataUri = "https://arweave.net/FO_Yt5VLEl6iEIzVBi49BpgW1mXHR1xjDrYE3Mt_7oQ"
+    const metadataUri = "https://arweave.net/cQWxH4IxJn902LHkV68wwna6zBGUGUMlNG59UJG9bLs"
     const {nft} = await metaplex.nfts().create({
         uri: metadataUri,
         name: 'SolDevBootcamp',

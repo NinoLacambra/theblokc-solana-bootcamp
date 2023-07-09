@@ -15,14 +15,13 @@ fn main() {
 }
 
 fn count_vowels(input: &str) -> usize {
-    let vowels = ['a', 'e', 'i', 'o', 'u'];
+    let vowels = ['a', 'A' , 'e', 'E', 'i', 'I', 'o', 'O', 'u', 'U'];
     let mut count = 0;
 
     for c in input.chars() {
-        if vowels.contains(&c.to_ascii_lowercase()) {
+        if vowels.contains(&c) {
             count += 1;
         }
     }
-
     count
 }

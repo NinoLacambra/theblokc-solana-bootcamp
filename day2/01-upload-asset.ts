@@ -2,7 +2,7 @@ import {createMetaplexInstance} from './metaplex'
 import { toMetaplexFile } from '@metaplex-foundation/js'
 import fs from 'fs'
 
-const buffer = fs.readFileSync(__dirname + "/assets/cat.jpg");
+const buffer = fs.readFileSync(__dirname + "/assets/samgy.jpg");
 const file = toMetaplexFile(buffer, "image.jpg");
 
 const metaplex = createMetaplexInstance()
