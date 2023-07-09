@@ -20,6 +20,8 @@ async function main(){
 
     console.log('tokenMint', tokenMint.toBase58());
     //tokenMint SYJMmte7Ef4ENPosKu6ThZXWrqC2mz3FtGJ3qGNydpQ
+    //tokenMint VtqjUKXGbvSTq2H7dQbapzFccoVB1W1Hjbeker9rn6E
+    //tokenMint 84e1YsEWvEebwsiZ6QsRwmTLN2SUvffzkmJ6HEvK6xf5
 }
 
 main()

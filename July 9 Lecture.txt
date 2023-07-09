@@ -4,3 +4,7 @@ Decentralize Storage
 1. IPfS
 2. Arweave
 
+Making NFTS
+1. Upload Photo
+2. Make Metadata
+3. Make NFT
