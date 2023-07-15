@@ -1,0 +1,11 @@
+/home/nino/Documents/theblokc-solana-bootcamp/hello_solana_program/target/debug/deps/serde_bytes-4a79cab5e1a6408f.rmeta: /home/nino/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.11/src/lib.rs /home/nino/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.11/src/bytes.rs /home/nino/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.11/src/de.rs /home/nino/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.11/src/ser.rs /home/nino/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.11/src/bytebuf.rs
+
+/home/nino/Documents/theblokc-solana-bootcamp/hello_solana_program/target/debug/deps/libserde_bytes-4a79cab5e1a6408f.rlib: /home/nino/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.11/src/lib.rs /home/nino/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.11/src/bytes.rs /home/nino/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.11/src/de.rs /home/nino/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.11/src/ser.rs /home/nino/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.11/src/bytebuf.rs
+
+/home/nino/Documents/theblokc-solana-bootcamp/hello_solana_program/target/debug/deps/serde_bytes-4a79cab5e1a6408f.d: /home/nino/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.11/src/lib.rs /home/nino/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.11/src/bytes.rs /home/nino/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.11/src/de.rs /home/nino/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.11/src/ser.rs /home/nino/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.11/src/bytebuf.rs
+
+/home/nino/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.11/src/lib.rs:
+/home/nino/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.11/src/bytes.rs:
+/home/nino/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.11/src/de.rs:
+/home/nino/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.11/src/ser.rs:
+/home/nino/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.11/src/bytebuf.rs:

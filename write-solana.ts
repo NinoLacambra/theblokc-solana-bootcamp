@@ -8,8 +8,8 @@ console.log(process.env.SOL_PRIVATE_KEY)
 async function main() {
     const transaction = new Web3.Transaction();
     const sendSolInstruction = SystemProgram.transfer({
-        fromPubkey: new Web3.PublicKey('DHwaP7ewUeoK4hmAFZB6jDw2eKrPd4FVFD2cy8J4A8jU'),
-        toPubkey: new Web3.PublicKey('9ej9BKP1gYFVGxPCme2C6is7PNAqN9uANH44VCMVN3Nn'),
+        fromPubkey: new Web3.PublicKey('4RweyN6mvZuMD8VqQSco5zcAiovGML7fvEErcvPFh5FQ'),
+        toPubkey: new Web3.PublicKey('4RweyN6mvZuMD8VqQSco5zcAiovGML7fvEErcvPFh5FQ'),
         lamports: 1 * LAMPORTS_PER_SOL
     })
     transaction.add(sendSolInstruction)

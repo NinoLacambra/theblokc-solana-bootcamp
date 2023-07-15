@@ -8,7 +8,7 @@ async function main() {
   const base58DecodedPK = base58.decode(process.env.SOL_PRIVATE_KEY || '')
   const signer = Web3.Keypair.fromSecretKey(base58DecodedPK)
 
-  const publicKey = new Web3.PublicKey('DHwaP7ewUeoK4hmAFZB6jDw2eKrPd4FVFD2cy8J4A8jU')
+  const publicKey = new Web3.PublicKey('4RweyN6mvZuMD8VqQSco5zcAiovGML7fvEErcvPFh5FQ')
   const connection = new Web3.Connection(Web3.clusterApiUrl('devnet'))
 
   const instruction = new Web3.TransactionInstruction({
@@ -20,7 +20,7 @@ async function main() {
       },
     ],
     data: Buffer.alloc(20),
-    programId: new Web3.PublicKey('BaQDk33jCCVMdXLJvGuTqUwrzKCHoVkZ65jwQT7F4pGY'),
+    programId: new Web3.PublicKey('5PB4Pb5KwG2VXYQcwqMExLXLwj8iHiw5hmpksqxn3BtY'),
   });
   
 
@@ -38,3 +38,5 @@ main()
   .catch((err) => {
     console.error(err)
   })
+
+//program id: 5PB4Pb5KwG2VXYQcwqMExLXLwj8iHiw5hmpksqxn3BtY

@@ -1,0 +1,11 @@
+/home/nino/Documents/theblokc-solana-bootcamp/hello_solana_program/target/sbf-solana-solana/release/deps/serde_bytes-4c29c6938a66408a.rmeta: /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.11/src/lib.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.11/src/bytes.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.11/src/de.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.11/src/ser.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.11/src/bytebuf.rs
+
+/home/nino/Documents/theblokc-solana-bootcamp/hello_solana_program/target/sbf-solana-solana/release/deps/libserde_bytes-4c29c6938a66408a.rlib: /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.11/src/lib.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.11/src/bytes.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.11/src/de.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.11/src/ser.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.11/src/bytebuf.rs
+
+/home/nino/Documents/theblokc-solana-bootcamp/hello_solana_program/target/sbf-solana-solana/release/deps/serde_bytes-4c29c6938a66408a.d: /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.11/src/lib.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.11/src/bytes.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.11/src/de.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.11/src/ser.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.11/src/bytebuf.rs
+
+/home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.11/src/lib.rs:
+/home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.11/src/bytes.rs:
+/home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.11/src/de.rs:
+/home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.11/src/ser.rs:
+/home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.11/src/bytebuf.rs:

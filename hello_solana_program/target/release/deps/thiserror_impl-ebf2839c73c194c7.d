@@ -1,0 +1,12 @@
+/home/nino/Documents/theblokc-solana-bootcamp/hello_solana_program/target/release/deps/libthiserror_impl-ebf2839c73c194c7.so: /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/lib.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/ast.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/attr.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/expand.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/fmt.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/generics.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/prop.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/valid.rs
+
+/home/nino/Documents/theblokc-solana-bootcamp/hello_solana_program/target/release/deps/thiserror_impl-ebf2839c73c194c7.d: /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/lib.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/ast.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/attr.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/expand.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/fmt.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/generics.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/prop.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/valid.rs
+
+/home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/lib.rs:
+/home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/ast.rs:
+/home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/attr.rs:
+/home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/expand.rs:
+/home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/fmt.rs:
+/home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/generics.rs:
+/home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/prop.rs:
+/home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/valid.rs:

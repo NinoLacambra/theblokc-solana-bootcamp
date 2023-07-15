@@ -1,0 +1,10 @@
+/home/nino/Documents/theblokc-solana-bootcamp/hello_solana_program/target/sbf-solana-solana/release/deps/solana_frozen_abi-430231f7db44904f.rmeta: /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.16.4/src/lib.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.16.4/src/abi_digester.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.16.4/src/abi_example.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.16.4/src/hash.rs
+
+/home/nino/Documents/theblokc-solana-bootcamp/hello_solana_program/target/sbf-solana-solana/release/deps/libsolana_frozen_abi-430231f7db44904f.rlib: /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.16.4/src/lib.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.16.4/src/abi_digester.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.16.4/src/abi_example.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.16.4/src/hash.rs
+
+/home/nino/Documents/theblokc-solana-bootcamp/hello_solana_program/target/sbf-solana-solana/release/deps/solana_frozen_abi-430231f7db44904f.d: /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.16.4/src/lib.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.16.4/src/abi_digester.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.16.4/src/abi_example.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.16.4/src/hash.rs
+
+/home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.16.4/src/lib.rs:
+/home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.16.4/src/abi_digester.rs:
+/home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.16.4/src/abi_example.rs:
+/home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.16.4/src/hash.rs:
