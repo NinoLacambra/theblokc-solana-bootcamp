@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/nino/Documents/dapp/My_dApp/d-app/target/sbf-solana-solana/release/build/typenum-aaaf9f6741e7da08/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/nino/Documents/dapp/My_dApp/d-app/target/sbf-solana-solana/release/build/typenum-aaaf9f6741e7da08/out/op.rs

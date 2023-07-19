@@ -1,0 +1,13 @@
+/home/nino/Documents/dapp/My_dApp/d-app/target/release/deps/quote-e166a9bcd249debb.rmeta: /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/lib.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/ext.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/format.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/ident_fragment.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/to_tokens.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/runtime.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/spanned.rs
+
+/home/nino/Documents/dapp/My_dApp/d-app/target/release/deps/libquote-e166a9bcd249debb.rlib: /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/lib.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/ext.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/format.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/ident_fragment.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/to_tokens.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/runtime.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/spanned.rs
+
+/home/nino/Documents/dapp/My_dApp/d-app/target/release/deps/quote-e166a9bcd249debb.d: /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/lib.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/ext.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/format.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/ident_fragment.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/to_tokens.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/runtime.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/spanned.rs
+
+/home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/lib.rs:
+/home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/ext.rs:
+/home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/format.rs:
+/home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/ident_fragment.rs:
+/home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/to_tokens.rs:
+/home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/runtime.rs:
+/home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/spanned.rs:

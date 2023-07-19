@@ -1,0 +1,13 @@
+/home/nino/Documents/dapp/My_dApp/d-app/target/sbf-solana-solana/release/deps/sha2-5d43e8a7f56ef4e3.rmeta: /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.7/src/lib.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.7/src/core_api.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.7/src/sha256.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.7/src/sha512.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.7/src/consts.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.7/src/sha256/soft.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.7/src/sha512/soft.rs
+
+/home/nino/Documents/dapp/My_dApp/d-app/target/sbf-solana-solana/release/deps/libsha2-5d43e8a7f56ef4e3.rlib: /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.7/src/lib.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.7/src/core_api.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.7/src/sha256.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.7/src/sha512.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.7/src/consts.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.7/src/sha256/soft.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.7/src/sha512/soft.rs
+
+/home/nino/Documents/dapp/My_dApp/d-app/target/sbf-solana-solana/release/deps/sha2-5d43e8a7f56ef4e3.d: /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.7/src/lib.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.7/src/core_api.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.7/src/sha256.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.7/src/sha512.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.7/src/consts.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.7/src/sha256/soft.rs /home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.7/src/sha512/soft.rs
+
+/home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.7/src/lib.rs:
+/home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.7/src/core_api.rs:
+/home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.7/src/sha256.rs:
+/home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.7/src/sha512.rs:
+/home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.7/src/consts.rs:
+/home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.7/src/sha256/soft.rs:
+/home/nino/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.7/src/sha512/soft.rs:
